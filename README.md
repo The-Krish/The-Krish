@@ -1,9 +1,7 @@
+# 💫 About Me:
 - 👋 Hi, I’m @The-Krish
 - 👀 I’m interested in web dev.
 - 🌱 I’m currently learning ...
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Krishna Kumar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/the.krishhh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-kumar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/the_kriishh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krissk439@gmail.com) 
